@@ -1,0 +1,7 @@
+# Local preview artifact
+preview.png
+
+# Editor and operating-system files
+.DS_Store
+.vscode/
+.idea/
