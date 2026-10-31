@@ -8,3 +8,5 @@
 - **Personal projects:** only the page heading and “work in progress” remain.
 - **Responsive and accessible:** timelines compress on phones, navigation can wrap, the active page has an underline, and semantic headings, image alt text, a skip link, and visible keyboard focus styles support navigation.
 - **Static implementation:** HTML and shared CSS need no build step or external scripts. Text-file content is copied into HTML so the pages also work when opened directly from the filesystem.
+
+- **Copyright footer:** a small, muted notice appears after the content on every page, distinguishing MIT-licensed website code from personal content with all rights reserved. The MIT label links to `LICENSE`; the scope is also explained in the README.

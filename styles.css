@@ -11,7 +11,7 @@
 }
 
 * { box-sizing: border-box; }
-body { margin: 0; line-height: 1.7; }
+body { margin: 0; line-height: 1.7; min-height: 100vh; min-height: 100svh; display: flex; flex-direction: column; }
 a { color: inherit; }
 a:focus-visible { outline: 2px solid var(--accent); outline-offset: 5px; }
 ::selection { background: #e0ecfa; }
@@ -180,3 +180,12 @@ p { margin: 0; }
   .timeline-content h3 { font-size: 18px; }
   .thesis-abstract p { font-size: 15px; }
 }
+
+.site-footer {
+  width: min(100%, 960px);
+  margin: auto auto 0;
+  padding: 20px 24px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+}
+.site-footer small { font-size: 12px; }

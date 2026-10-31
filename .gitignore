@@ -5,3 +5,6 @@ preview.png
 .DS_Store
 .vscode/
 .idea/
+
+# Local maintenance instructions (do not publish)
+/LOCAL_WORKFLOW.md
