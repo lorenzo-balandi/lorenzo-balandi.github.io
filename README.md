@@ -4,13 +4,6 @@ Source for [Lorenzo Balandi’s personal website](https://lorenzo-balandi.github
 
 This repository exists to build and maintain that website. It is not developed or maintained as a reusable website template, framework, or software library.
 
-## Website
-
-- **Home:** introduction, portrait, and professional profile links.
-- **CV:** research and work experience, education, and training.
-- **PhD Thesis:** thesis abstract.
-- **Personal projects:** a space for future projects.
-
 The website uses static HTML and CSS and is hosted with GitHub Pages.
 
 ## Copyright and license
